@@ -1,1 +1,3 @@
-# Number-Guessing-Game-Python-
+# Number-Guessing-Game-Python
+This is a Fun game made in Python as part of my course from Udemy.
+Hope u like it..... 
